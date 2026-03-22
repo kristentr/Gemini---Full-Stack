@@ -304,7 +304,7 @@ Topic: {research_topic}"""
         )
         
         structured_llm = llm.with_structured_output(SearchQueryList)
-        result = structured_llm.invoke(prompt)
+        result = await structured_llm.ainvoke(prompt)
         
         logger.info(f"Generated {len(result.queries)} search queries for topic: {research_topic}")
         return result
