@@ -344,7 +344,7 @@ Search Query: {query}"""
 
     for attempt in range(max_retries):
         try:
-            response = genai_client.models.generate_content(
+            response = await genai_client.models.generate_content_async(
                 model=RESEARCH_MODEL,
                 contents=prompt,
                 config={
