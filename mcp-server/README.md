@@ -11,7 +11,7 @@
 
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Security Policy](https://img.shields.io/badge/security-policy-important.svg)](SECURITY.md)
-[![Issues](https://img.shields.io/github/issues/your-username/gemini-research-agent-mcp.svg)](https://github.com/your-username/gemini-research-agent-mcp/issues)
+[![Issues](https://img.shields.io/github/issues/your-actual-username/gemini-research-agent-mcp.svg)](https://github.com/your-actual-username/gemini-research-agent-mcp/issues)
 [![Stars](https://img.shields.io/github/stars/your-username/gemini-research-agent-mcp.svg?style=social)](https://github.com/your-username/gemini-research-agent-mcp/stargazers)
 
 **🚀 Production-ready MCP server for advanced AI-powered research with configurable effort levels**
