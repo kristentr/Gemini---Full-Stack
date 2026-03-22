@@ -23,7 +23,7 @@ Thank you for your interest in contributing to the Gemini Research Agent MCP Ser
 
 1. **Fork and Clone**
    ```bash
-   git clone https://github.com/your-username/gemini-research-agent-mcp.git
+   git clone https://github.com/your-actual-username/gemini-research-agent-mcp.git
    cd gemini-research-agent-mcp
    ```
 
